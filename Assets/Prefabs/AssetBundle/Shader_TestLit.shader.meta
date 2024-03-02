@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 41fb8383f127e18419390a9f50b06b7a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: shader_testlit
+  assetBundleVariant: u3d

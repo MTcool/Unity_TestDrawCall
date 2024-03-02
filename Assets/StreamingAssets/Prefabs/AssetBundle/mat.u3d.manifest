@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3514446198
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42122ebc2e076bad22a3f612cee3fe4c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1397ad235555a4f37791d5b3ff19e7a7
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/AssetBundle/Mat_TestLit.mat
+Dependencies:
+- C:/workspace/projects/unity/TestAlgorithm/Assets/StreamingAssets/Prefabs/AssetBundle/shader_testlit.u3d

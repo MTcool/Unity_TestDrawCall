@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 750043286
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: capsule.u3d
+      Dependencies:
+        Dependency_0: mat.u3d
+    Info_1:
+      Name: mat.u3d
+      Dependencies:
+        Dependency_0: shader_testlit.u3d
+    Info_2:
+      Name: shader_testlit.u3d
+      Dependencies: {}
